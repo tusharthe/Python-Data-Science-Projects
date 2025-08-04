@@ -9,17 +9,17 @@ Each project is designed to **learn by doing** — covering data wrangling, visu
 
 ## 📚 Project List
 
-| Project Name | Topics Covered | Tools/Libraries | Link |
-|--------------|----------------|-----------------|------|
-| 📊 **Titanic Survival Prediction** | Data cleaning, classification | Pandas, Scikit-learn | [`/titanic-prediction`](./titanic-prediction) |
-| 📈 **Stock Price Visualization** | Time series, plotting | yfinance, Matplotlib | [`/stock-visualization`](./stock-visualization) |
-| 🏠 **House Price Predictor** | Regression, feature engineering | Pandas, Scikit-learn | [`/house-price-prediction`](./house-price-prediction) |
-| 🌍 **World Happiness Analysis** | EDA, correlation | Seaborn, Pandas | [`/happiness-report`](./happiness-report) |
-| 🧹 **Data Cleaning Challenge** | Handling nulls, outliers | Pandas | [`/data-cleaning`](./data-cleaning) |
-| 🤖 **Iris Flower Classifier** | Basic ML classification | Scikit-learn | [`/iris-classifier`](./iris-classifier) |
-| 🎮 **Steam Games Data Analysis** | Exploratory data analysis | Pandas, Plotly | [`/steam-games-analysis`](./steam-games-analysis) |
-| 🗣️ **Sentiment Analysis (Twitter)** | NLP basics | TextBlob, Tweepy | [`/sentiment-analysis`](./sentiment-analysis) |
-| 📷 **Image Classification** | CNN basics | Keras, TensorFlow | [`/image-classification`](./image-classification) |
+| Project Name | Topics Covered | Tools/Libraries | Local Link | Reference Repo |
+|--------------|----------------|-----------------|------------|----------------|
+| 📊 **Titanic Survival Prediction** | Data cleaning, classification | Pandas, Scikit-learn | [/titanic-prediction](./titanic-prediction) | [dataquestio/project-tutorials#titanic](https://github.com/dataquestio/project-tutorials/tree/master/Guided%20Project%20-%20Predicting%20Survival%20on%20the%20Titanic) |
+| 📈 **Stock Price Visualization** | Time series, plotting | yfinance, Matplotlib | [/stock-visualization](./stock-visualization) | [bryanb/mev-history](https://github.com/bryanb/mev-history) |
+| 🏠 **House Price Predictor** | Regression, feature engineering | Pandas, Scikit-learn | [/house-price-prediction](./house-price-prediction) | [ageron/handson-ml](https://github.com/ageron/handson-ml) |
+| 🌍 **World Happiness Analysis** | EDA, correlation | Seaborn, Pandas | [/happiness-report](./happiness-report) | [dipanjanS/data-science-projects#world-happiness](https://github.com/dipanjanS/data-science-projects/tree/master/World%20Happiness%20Report%20Analysis) |
+| 🧹 **Data Cleaning Challenge** | Handling nulls, outliers | Pandas | [/data-cleaning](./data-cleaning) | [dataquestio/project-tutorials#cleaning](https://github.com/dataquestio/project-tutorials/tree/master/Guided%20Project%20-%20Clean%20And%20Analyze%20Employee%20Exit%20Surveys) |
+| 🤖 **Iris Flower Classifier** | Basic ML classification | Scikit-learn | [/iris-classifier](./iris-classifier) | [mohamedameen93/Iris-Classification](https://github.com/mohamedameen93/Iris-Classification) |
+| 🎮 **Steam Games Data Analysis** | Exploratory data analysis | Pandas, Plotly | [/steam-games-analysis](./steam-games-analysis) | [woctezuma/steam-data-science](https://github.com/woctezuma/steam-data-science) |
+| 🗣️ **Sentiment Analysis (Twitter)** | NLP basics | TextBlob, Tweepy | [/sentiment-analysis](./sentiment-analysis) | [nateraw/twitter-sentiment-analysis](https://github.com/nateraw/twitter-sentiment-analysis) |
+| 📷 **Image Classification** | CNN basics | Keras, TensorFlow | [/image-classification](./image-classification) | [llSourcell/tensorflow_image_classifier](https://github.com/llSourcell/tensorflow_image_classifier) |
 
 > 🔁 More projects coming soon...
 
